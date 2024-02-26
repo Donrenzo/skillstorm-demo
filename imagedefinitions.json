@@ -1,0 +1,6 @@
+[
+    {
+        "name": "<lawrence-docker:latest",
+        "imageUri": "public.ecr.aws/q9r3s5p8/lawrence-docker:latest"
+    }
+]
